@@ -1266,5 +1266,9 @@
   {
     "req": "The bank robbery begun at 2pm and was over until 2.17pm.",
     "res": []
+  },
+  {
+    "req": "20/2030 and",
+    "res": []
   }
 ]
